@@ -1,0 +1,23 @@
+{
+  "name": "ec2testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Pramit0205@github.com/Pramit0205/ec2testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pramit0205/ec2testing/issues"
+  },
+  "homepage": "https://github.com/Pramit0205/ec2testing#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
